@@ -32,10 +32,11 @@ The five `greetingFor` tests fail until you finish `TODO 2`. This is expected. W
 
 ## My screenshot
 
-![The app on my phone](screenshot.jpg)
+![The app on my phone](screenshot.png)
+path : D:\Hanzala\flutter\mad-01-hello-flutter-main\mad-01-hello-flutter-main\screenshot.png
 
 Replace this picture with your own. Take a screenshot of the app on your phone, name it `screenshot.jpg`, and put it in the top folder of this repository, next to this README.
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I asked AI to explain Dart if, else if, and else statements and how the greeting function works. I also used AI to understand the Flutter widget structure.
